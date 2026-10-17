@@ -63,5 +63,3 @@ An autonomous agent designed to navigate an unknown maze using sensor readings a
 
 ### 💬 One thing about me
 I don't need every project to be groundbreaking. If I learn something new, solve a problem, or make an idea actually work, that's a win. 🚀
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=2314116jee-dot&icon=0&color=6)](https://visitcount.itsvg.in)
